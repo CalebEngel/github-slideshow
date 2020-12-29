@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+If a tree falls in the woods, does it make a sound?
 Use the left arrow to go back!
